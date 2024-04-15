@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|c:\\users\\rosab\\onedrive\\escritorio\\programacion24\\programacion24\\listapersonas\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|solutionrelative:listapersonas\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|c:\\users\\rosab\\onedrive\\escritorio\\programacion24\\programacion24\\listapersonas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|solutionrelative:listapersonas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\ListaPersonas\\Program.cs",
+              "RelativeDocumentMoniker": "ListaPersonas\\Program.cs",
+              "ToolTip": "C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\ListaPersonas\\Program.cs",
+              "RelativeToolTip": "ListaPersonas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:18:36.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lista.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\ListaPersonas\\Lista.cs",
+              "RelativeDocumentMoniker": "ListaPersonas\\Lista.cs",
+              "ToolTip": "C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\ListaPersonas\\Lista.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ListaPersonas\\Lista.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T18:18:29.248Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
