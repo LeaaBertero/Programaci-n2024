@@ -1,0 +1,17 @@
+C:\Users\rosab\OneDrive\Escritorio\Programacion24\Programacion24\ListaPersonas\bin\Debug\net8.0-windows\ListaPersonas.exe
+C:\Users\rosab\OneDrive\Escritorio\Programacion24\Programacion24\ListaPersonas\bin\Debug\net8.0-windows\ListaPersonas.deps.json
+C:\Users\rosab\OneDrive\Escritorio\Programacion24\Programacion24\ListaPersonas\bin\Debug\net8.0-windows\ListaPersonas.runtimeconfig.json
+C:\Users\rosab\OneDrive\Escritorio\Programacion24\Programacion24\ListaPersonas\bin\Debug\net8.0-windows\ListaPersonas.dll
+C:\Users\rosab\OneDrive\Escritorio\Programacion24\Programacion24\ListaPersonas\bin\Debug\net8.0-windows\ListaPersonas.pdb
+C:\Users\rosab\OneDrive\Escritorio\Programacion24\Programacion24\ListaPersonas\obj\Debug\net8.0-windows\ListaPersonas.Lista.resources
+C:\Users\rosab\OneDrive\Escritorio\Programacion24\Programacion24\ListaPersonas\obj\Debug\net8.0-windows\ListaPersonas.csproj.GenerateResource.cache
+C:\Users\rosab\OneDrive\Escritorio\Programacion24\Programacion24\ListaPersonas\obj\Debug\net8.0-windows\ListaPersonas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rosab\OneDrive\Escritorio\Programacion24\Programacion24\ListaPersonas\obj\Debug\net8.0-windows\ListaPersonas.AssemblyInfoInputs.cache
+C:\Users\rosab\OneDrive\Escritorio\Programacion24\Programacion24\ListaPersonas\obj\Debug\net8.0-windows\ListaPersonas.AssemblyInfo.cs
+C:\Users\rosab\OneDrive\Escritorio\Programacion24\Programacion24\ListaPersonas\obj\Debug\net8.0-windows\ListaPersonas.csproj.CoreCompileInputs.cache
+C:\Users\rosab\OneDrive\Escritorio\Programacion24\Programacion24\ListaPersonas\obj\Debug\net8.0-windows\ListaPersonas.sourcelink.json
+C:\Users\rosab\OneDrive\Escritorio\Programacion24\Programacion24\ListaPersonas\obj\Debug\net8.0-windows\ListaPersonas.dll
+C:\Users\rosab\OneDrive\Escritorio\Programacion24\Programacion24\ListaPersonas\obj\Debug\net8.0-windows\refint\ListaPersonas.dll
+C:\Users\rosab\OneDrive\Escritorio\Programacion24\Programacion24\ListaPersonas\obj\Debug\net8.0-windows\ListaPersonas.pdb
+C:\Users\rosab\OneDrive\Escritorio\Programacion24\Programacion24\ListaPersonas\obj\Debug\net8.0-windows\ListaPersonas.genruntimeconfig.cache
+C:\Users\rosab\OneDrive\Escritorio\Programacion24\Programacion24\ListaPersonas\obj\Debug\net8.0-windows\ref\ListaPersonas.dll
