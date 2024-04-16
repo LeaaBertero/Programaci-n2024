@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|c:\\users\\rosab\\onedrive\\escritorio\\programacion24\\programacion24\\listapersonas\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|c:\\users\\rosab\\onedrive\\escritorio\\programacion24\\programacion24\\listapersonas\\frmclave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|solutionrelative:listapersonas\\frmclave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\listapersonas\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|solutionrelative:listapersonas\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\listapersonas\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|solutionrelative:listapersonas\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\listapersonas\\frmclave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|solutionrelative:listapersonas\\frmclave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\listapersonas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|solutionrelative:listapersonas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\listapersonas\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|solutionrelative:listapersonas\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\listapersonas\\lista.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|solutionrelative:listapersonas\\lista.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\listapersonas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|solutionrelative:listapersonas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\listapersonas\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BFDE713-D856-4EE8-A31C-F38BDC4541EE}|ListaPersonas\\ListaPersonas.csproj|solutionrelative:listapersonas\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +34,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Lista.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\ListaPersonas\\Lista.Designer.cs",
-              "RelativeDocumentMoniker": "ListaPersonas\\Lista.Designer.cs",
-              "ToolTip": "C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\ListaPersonas\\Lista.Designer.cs",
-              "RelativeToolTip": "ListaPersonas\\Lista.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "FrmClave.cs",
+              "DocumentMoniker": "C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\ListaPersonas\\FrmClave.cs",
+              "RelativeDocumentMoniker": "ListaPersonas\\FrmClave.cs",
+              "ToolTip": "C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\ListaPersonas\\FrmClave.cs",
+              "RelativeToolTip": "ListaPersonas\\FrmClave.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwCEAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T18:26:51.814Z",
+              "WhenOpened": "2024-04-16T02:08:39.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "FrmClave.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\ListaPersonas\\FrmClave.cs",
+              "RelativeDocumentMoniker": "ListaPersonas\\FrmClave.cs",
+              "ToolTip": "C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\ListaPersonas\\FrmClave.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ListaPersonas\\FrmClave.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:07:58.954Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\ListaPersonas\\Persona.cs",
               "RelativeDocumentMoniker": "ListaPersonas\\Persona.cs",
@@ -59,40 +75,38 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Lista.cs",
               "DocumentMoniker": "C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\ListaPersonas\\Lista.cs",
               "RelativeDocumentMoniker": "ListaPersonas\\Lista.cs",
               "ToolTip": "C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\ListaPersonas\\Lista.cs",
               "RelativeToolTip": "ListaPersonas\\Lista.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAA6wBkAAAAAAAAA",
+              "ViewState": "AQIAADEAAAAAAAAAAAAuwEMAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T18:26:24.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T18:26:24.275Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\ListaPersonas\\Program.cs",
               "RelativeDocumentMoniker": "ListaPersonas\\Program.cs",
               "ToolTip": "C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\ListaPersonas\\Program.cs",
               "RelativeToolTip": "ListaPersonas\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T18:18:36.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Lista.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\ListaPersonas\\Lista.cs",
               "RelativeDocumentMoniker": "ListaPersonas\\Lista.cs",
               "ToolTip": "C:\\Users\\rosab\\OneDrive\\Escritorio\\Programacion24\\Programacion24\\ListaPersonas\\Lista.cs [Dise\u00F1o]",
               "RelativeToolTip": "ListaPersonas\\Lista.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T18:18:29.248Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-04-15T18:18:29.248Z"
             }
           ]
         }

@@ -39,6 +39,7 @@
             txEdad = new TextBox();
             label5 = new Label();
             btCerrar = new Button();
+            btBorrarlista = new Button();
             SuspendLayout();
             // 
             // btCargar
@@ -142,13 +143,25 @@
             btCerrar.UseVisualStyleBackColor = true;
             btCerrar.Click += btCerrar_Click;
             // 
+            // btBorrarlista
+            // 
+            btBorrarlista.Cursor = Cursors.Hand;
+            btBorrarlista.Location = new Point(467, 276);
+            btBorrarlista.Name = "btBorrarlista";
+            btBorrarlista.Size = new Size(194, 29);
+            btBorrarlista.TabIndex = 11;
+            btBorrarlista.Text = "Limpiar lista";
+            btBorrarlista.UseVisualStyleBackColor = true;
+            btBorrarlista.Click += btBorrarlista_Click;
+            // 
             // Lista
             // 
             AcceptButton = btCargar;
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.Chartreuse;
-            ClientSize = new Size(999, 573);
+            ClientSize = new Size(999, 599);
+            Controls.Add(btBorrarlista);
             Controls.Add(btCerrar);
             Controls.Add(label5);
             Controls.Add(txEdad);
@@ -180,5 +193,6 @@
         private TextBox txEdad;
         private Label label5;
         private Button btCerrar;
+        private Button btBorrarlista;
     }
 }

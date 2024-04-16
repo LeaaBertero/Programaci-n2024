@@ -43,24 +43,29 @@ namespace ListaPersonas
 
         private void btMostrar_Click(object sender, EventArgs e)
         {
-           foreach (Persona persona in Personas)
-           {
+            foreach (Persona persona in Personas)
+            {
                 lbLista.Visible = true;
 
                 lbLista.Text = "Lista de personas: " + "\r\n" + "\r\n"
                + "Nombre: " + Personas[0].Nombre + "\r\n"
                + "Apellido: " + Personas[0].Apellido + "\r\n"
-               + "Edad: " + Personas[0].Edad + "\r\n"
+               + "Edad: " + Personas[0].Edad + "\r\n" + "\r\n"
                + "Nombre: " + Personas[1].Nombre + "\r\n"
                + "Apellido: " + Personas[1].Apellido + "\r\n"
-               + "Edad: " + Personas[1].Edad + "\r\n"
+               + "Edad: " + Personas[1].Edad + "\r\n" + "\r\n"
                + "Nombre: " + Personas[2].Nombre + "\r\n"
                + "Apellido: " + Personas[2].Apellido + "\r\n"
-               + "Edad: " + Personas[2].Edad + "\r\n"
+               + "Edad: " + Personas[2].Edad + "\r\n" + "\r\n"
                + "Nombre: " + Personas[3].Nombre + "\r\n"
                + "Apellido: " + Personas[3].Apellido + "\r\n"
                + "Edad: " + Personas[3].Edad;
             }
+        }
+
+        private void btBorrarlista_Click(object sender, EventArgs e)
+        {
+            lbLista.Text = string.Empty;
         }
     }
 }
